@@ -1,0 +1,12 @@
+{
+    "name": "danilotiago/pages-custom",
+    "authors": [
+        {
+            "name": "danilotiago",
+            "email": "programacao.desenvolvimento@gmail.com"
+        }
+    ],
+    "require": {
+        "danilotiago/location-custom": "dev-master"
+    }
+}
