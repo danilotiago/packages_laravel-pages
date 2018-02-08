@@ -8,5 +8,10 @@
     ],
     "require": {
         "danilotiago/location-custom": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Pages\\": "./"
+        }
     }
 }
